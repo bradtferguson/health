@@ -1,8 +1,4 @@
 python pull_myfitnesspal.py run
-now=$(date)
-echo "launchd update completed at $now"
 git add .
 git commit -m 'update'
 git push
-
-

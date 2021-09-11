@@ -34,7 +34,7 @@ print("################################################")
 print("")
 
 # for yearIndex in range(beginningYear, currentYear + 1):
-# 
+#
 #     # Create a file name based on this year's data
 #     thisFileName = "healthData_%s.csv" % yearIndex
 #
