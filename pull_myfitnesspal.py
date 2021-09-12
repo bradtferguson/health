@@ -1,8 +1,8 @@
 import myfitnesspal
-# import datetime
-# import pandas as pd
-# import collections
-# from typing import Dict, List
+import datetime
+import pandas as pd
+import collections
+from typing import Dict, List
 
 import csv, sys, os
 from datetime import datetime
